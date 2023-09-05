@@ -4,11 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinmistrele&bg_color=1a1414&color=ffffff&line=2c39f2&point=00d5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinmistrele&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kevinmistrele&show_icons=true&count_private=true&hide_border=true&title_color=00d5ff&icon_color=00d5ff&text_color=2c39f2&bg_color=0d1117" alt="Kevin Mistrele github stats" /> 
