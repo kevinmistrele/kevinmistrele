@@ -5,7 +5,6 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kevinmistrele&show_icons=true&count_private=true&hide_border=true&title_color=00d5ff&icon_color=00d5ff&text_color=2c39f2&bg_color=0d1117" alt="Kevin Mistrele github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmistrele&layout=compact&hide_border=true&title_color=00d5ff&text_color=00d5ff&bg_color=0d1117" />
 </div>
 
