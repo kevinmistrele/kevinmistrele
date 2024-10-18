@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c39f2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Kevin+Mistrele;I'm+19+years+old;I'm+from+Brazil;Pursuing+a+degree+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinmistrele&bg_color=1a1414&color=ffffff&line=2c39f2&point=00d5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
